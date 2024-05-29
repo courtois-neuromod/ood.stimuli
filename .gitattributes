@@ -1,0 +1,5 @@
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+*.sh annex.largefiles=nothing
+*.mkv annex.largefiles=anything
+*.mp4 annex.largefiles=anything
